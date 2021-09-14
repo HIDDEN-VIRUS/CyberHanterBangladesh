@@ -12,7 +12,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberHanterBangladesh&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite&langs_count=10&exclude_repo=kasweb">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=CyberHanterBangladesh&count_private=true&show_icons=trueline_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite">	
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CyberHanterBangladesh&theme=dracula">
-<img src="https://metrics.lecoq.io/KasRoudra">	
+<img src="https://metrics.lecoq.io/Cyber Hanter Bangladesh ">	
 <img src="https://github-profile-trophy.vercel.app/?username=CyberHanterBangladesh&theme=onedark&title=MultiLanguage,Stars,Commit,Followers,Repo,PR">
 ### Contact me:
 
